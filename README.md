@@ -68,5 +68,5 @@
 - Scenario Analysis
 
 
-- `softline_dcf_comparable_valuation.xlsx` — полная финансовая модель
+- `Finance project.xlsx` — полная финансовая модель
 
